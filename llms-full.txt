@@ -1,0 +1,52 @@
+# Geotechnical Engineering1 — Houston
+
+> Geotechnical engineering services in Houston, United States.
+
+## Services
+- [Anchors](https://houston.geotechnicalengineering1.org/anchors/)
+- [Atterberg Limits](https://houston.geotechnicalengineering1.org/atterberg-limits/)
+- [Cbr Road](https://houston.geotechnicalengineering1.org/cbr-road/)
+- [Cpt Test](https://houston.geotechnicalengineering1.org/cpt-test/)
+- [Deep Excavations](https://houston.geotechnicalengineering1.org/deep-excavations/)
+- [Excavation Monitoring](https://houston.geotechnicalengineering1.org/excavation-monitoring/)
+- [Excavations Underground](https://houston.geotechnicalengineering1.org/excavations-underground/)
+- [Flexible Pavement](https://houston.geotechnicalengineering1.org/flexible-pavement/)
+- [Footings](https://houston.geotechnicalengineering1.org/footings/)
+- [Foundations](https://houston.geotechnicalengineering1.org/foundations/)
+- [Geophysics](https://houston.geotechnicalengineering1.org/geophysics/)
+- [Grain Size](https://houston.geotechnicalengineering1.org/grain-size/)
+- [Ground Improvement](https://houston.geotechnicalengineering1.org/ground-improvement/)
+- [Grouting](https://houston.geotechnicalengineering1.org/grouting/)
+- [In Situ Lab](https://houston.geotechnicalengineering1.org/in-situ-lab/)
+- [In Situ Permeability](https://houston.geotechnicalengineering1.org/in-situ-permeability/)
+- [Investigation](https://houston.geotechnicalengineering1.org/investigation/)
+- [Laboratory](https://houston.geotechnicalengineering1.org/laboratory/)
+- [Liquefaction](https://houston.geotechnicalengineering1.org/liquefaction/)
+- [Masw](https://houston.geotechnicalengineering1.org/masw/)
+- [Mat Foundations](https://houston.geotechnicalengineering1.org/mat-foundations/)
+- [Piles](https://houston.geotechnicalengineering1.org/piles/)
+- [Proctor Tests](https://houston.geotechnicalengineering1.org/proctor-tests/)
+- [Resistivity](https://houston.geotechnicalengineering1.org/resistivity/)
+- [Retaining Walls](https://houston.geotechnicalengineering1.org/retaining-walls/)
+- [Rigid Pavement](https://houston.geotechnicalengineering1.org/rigid-pavement/)
+- [Road Geotechnics](https://houston.geotechnicalengineering1.org/road-geotechnics/)
+- [Sand Cone Density](https://houston.geotechnicalengineering1.org/sand-cone-density/)
+- [Seismic](https://houston.geotechnicalengineering1.org/seismic/)
+- [Seismic Isolation](https://houston.geotechnicalengineering1.org/seismic-isolation/)
+- [Seismic Microzonation](https://houston.geotechnicalengineering1.org/seismic-microzonation/)
+- [Seismic Refraction](https://houston.geotechnicalengineering1.org/seismic-refraction/)
+- [Slope Stability](https://houston.geotechnicalengineering1.org/slope-stability/)
+- [Slopes](https://houston.geotechnicalengineering1.org/slopes/)
+- [Soft Ground Tunnels](https://houston.geotechnicalengineering1.org/soft-ground-tunnels/)
+- [Spt Drilling](https://houston.geotechnicalengineering1.org/spt-drilling/)
+- [Stone Columns](https://houston.geotechnicalengineering1.org/stone-columns/)
+- [Test Pits](https://houston.geotechnicalengineering1.org/test-pits/)
+- [Triaxial](https://houston.geotechnicalengineering1.org/triaxial/)
+- [Vibrocompaction](https://houston.geotechnicalengineering1.org/vibrocompaction/)
+
+## Contact
+- Website: https://houston.geotechnicalengineering1.org/
+
+## About
+This site provides geotechnical engineering services in Houston, United States.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
